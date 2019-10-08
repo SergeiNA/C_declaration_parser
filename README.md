@@ -5,3 +5,5 @@ Doing staff like:
 char *(*func)()
 translate to:
 pointer to function returning pointer to char
+
+Source: K&R The C language
